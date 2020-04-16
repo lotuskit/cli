@@ -1,0 +1,16 @@
+{
+  "name": "@lotuskit/cli",
+  "version": "1.0.0",
+  "description": "CLI for LotusKit server",
+  "main": "lotuskit-cli.js",
+  "author": "Pierre Avinain",
+  "license": "ISC",
+  "bin": {
+    "lotuskit": "lotuskit-cli.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "pkg-install": "^1.0.0"
+  }
+}
