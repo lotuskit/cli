@@ -4,7 +4,7 @@
   "description": "CLI for LotusKit server",
   "main": "lotuskit-cli.js",
   "author": "Pierre Avinain",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "lotuskit": "lotuskit-cli.js"
   },
